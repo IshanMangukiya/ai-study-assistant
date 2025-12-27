@@ -1,7 +1,8 @@
-streamlit
-openai
-python-dotenv
-pypdf
-faiss-cpu
-numpy
+streamlit==1.52.2
+openai==2.14.0
+python-dotenv==1.2.1
+annoy==1.17.1
+numpy==2.3.5
+PyPDF2==3.1.1
+pandas==2.3.3
 
